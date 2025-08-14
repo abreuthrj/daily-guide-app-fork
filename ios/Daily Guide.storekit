@@ -1,0 +1,54 @@
+{
+  "identifier" : "6B938F66",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6449877354",
+    "_developerTeamID" : "JFMC4732UV",
+    "_lastSynchronizedDate" : 719715193.88783801
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21352377",
+      "localizations" : [
+
+      ],
+      "name" : "default",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6450320129",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Assine para ter acesso à todos os stories",
+              "displayName" : "Assinatura Daily Guide",
+              "locale" : "pt_BR"
+            }
+          ],
+          "productID" : "dailyguide_subscription_default",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Daily Guide",
+          "subscriptionGroupID" : "21352377",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

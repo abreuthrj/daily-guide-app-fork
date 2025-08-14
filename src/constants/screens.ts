@@ -1,0 +1,17 @@
+export const SCREENS = {
+  splash: 'navigation.splash',
+  signin: 'navigation.signin',
+  analyzing: 'navigation.onboarding.analyzing',
+  paywall: 'navigation.paywall',
+  story: 'navigation.story',
+  profile: 'navigation.profile',
+  profile_settings: 'navigation.profile.settings',
+  profile_place: 'navigation.profile.place',
+  form: 'navigation.onboarding.form',
+  form_name: 'navigation.onboarding.form.name',
+  form_birthdate: 'navigation.onboarding.form.birthdate',
+  form_birthtime: 'navigation.onboarding.form.birthtime',
+  form_city: 'navigation.onboarding.form.city',
+  form_gender: 'navigation.onboarding.form.gender',
+  form_notification_time: 'navigation.onboarding.form.notification_time',
+};

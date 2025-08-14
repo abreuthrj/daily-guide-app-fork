@@ -1,0 +1,15 @@
+export const ERR_TYPE = {
+  ERR_SIGNIN_REQUIRED: 'err_signin_required',
+  ERR_SUBSCRIPTION_REQUIRED: 'err_subscription_required',
+  ERR_UNRELATED_TOKEN: 'err_unrelated_token',
+  ERR_UNREADABLE_FIREBASE_TOKEN: 'err_unreadable_firebase_token',
+  ERR_PRODUCT_NOT_FOUND: 'err_product_not_found',
+  ERR_PURCHASE_ALREADY_EXISTS: 'err_purchase_already_exists',
+  ERR_PURCHASE_NOT_FOUND: 'err_purchase_not_found',
+  ERR_STORY_LIMIT: 'err_story_limit',
+  ERR_INVALID_BIRTHDATE: 'err_invalid_birthdate',
+  ERR_INVALID_PLACE: 'err_invalid_place',
+  ERR_SERVICE_FAILED: 'err_service_failed',
+  ERR_UPDATE_REQUIRED: 'err_update_required',
+  ERR_UNKNOWN: 'err_unknown',
+};

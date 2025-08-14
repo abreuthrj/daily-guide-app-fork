@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Belleza-Regular.ttf",
+      "sha1": "fe2442dfcc951d6b9b0fdd4ec4f9fd4a6de1b893"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueAlternateTrial-Bold.ttf",
+      "sha1": "769c0ee807e0c6fe3777e463f2574de7923425f6"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueAlternateTrial-Medium.ttf",
+      "sha1": "e8825260fb7777d3d6c386142b3d52724da24c8d"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueAlternateTrial-Monoline.ttf",
+      "sha1": "026bce54296358ddcee9d226b7020d150153943f"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueAlternateTrial-Regular.ttf",
+      "sha1": "4871656b612637b0f941ad8413d3a5bf396d2c62"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueTrial-Bold.ttf",
+      "sha1": "24a87b410679706bc003999853bb2a42c5f363b8"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueTrial-Medium.ttf",
+      "sha1": "c1b4ba86f9248215c446b7cfe86740106d637280"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueTrial-Monoline.ttf",
+      "sha1": "b016ef21a61e7c082271b278279c8ce6d8570aa0"
+    },
+    {
+      "path": "src/assets/fonts/ErotiqueTrial-Regular.ttf",
+      "sha1": "613bc9b8e44c0e8fac07333327e68b51231514d7"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Black.ttf",
+      "sha1": "0e538d85b0e75d5b9d034d095fecc82d37a65b91"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Bold.ttf",
+      "sha1": "d1cdc45352bf4db3dfc63e4eaf41f656be13aa9b"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-ExtraBold.ttf",
+      "sha1": "53d175809ffb6f7094917e0821e5214fe685bf43"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-ExtraLight.ttf",
+      "sha1": "d872f140740daff4606dac3f416393519c920fbc"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Light.ttf",
+      "sha1": "db8b0a5e994d961ef31689bfb995be4f8cc043db"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Medium.ttf",
+      "sha1": "5afc3291ff446192bcccfb14f91e8f0eda4d2d90"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Regular.ttf",
+      "sha1": "f47f1b2c07e2ff65a16189a7356607e924062433"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-SemiBold.ttf",
+      "sha1": "369b7748ecdc61a4ecf122eece7ebd271d65ca1a"
+    },
+    {
+      "path": "src/assets/fonts/Kanit-Thin.ttf",
+      "sha1": "265f1dba68257312cf56e1b3d2d6484c11ab371d"
+    },
+    {
+      "path": "src/assets/fonts/iconsax-bold.ttf",
+      "sha1": "4d2c811bfc1a6ee78aaf6c0eedc5a54153ceef24"
+    },
+    {
+      "path": "src/assets/fonts/iconsax.ttf",
+      "sha1": "c13b43ca8f6b4e32d13f64b1cfe39be983ffa093"
+    }
+  ]
+}

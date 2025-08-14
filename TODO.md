@@ -1,0 +1,9 @@
+- [ ] InAPP Purchase
+- [ ] Profile astrology info
+- [ ] Configure react native splash screen in iOS
+- [ ] User shouldn't always auth with backend, use refresh token
+- [ ] Configure google places autocomplete
+- [ ] Animate progress bar
+- [ ] Implement share with
+- [ ] Implement firebase events
+- [ ] Separate Analyzing info in steps
